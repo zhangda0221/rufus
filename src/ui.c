@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Rufus: The Reliable USB Formatting Utility
  * UI-related function calls
  * Copyright © 2018-2019 Pete Batard <pete@akeo.ie>

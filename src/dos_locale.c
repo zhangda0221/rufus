@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Rufus: The Reliable USB Formatting Utility
  * DOS keyboard locale setup
  * Copyright © 2011-2013 Pete Batard <pete@akeo.ie>
