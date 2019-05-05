@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Rufus: The Reliable USB Formatting Utility
  * Copyright © 2011-2019 Pete Batard <pete@akeo.ie>
  *
